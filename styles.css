@@ -1,0 +1,160 @@
+body{
+  background-color: hsl(218, 28%, 13%);
+    color: #fff;
+    font-size:  14px;
+overflow-x: hidden;
+overflow-y: scroll;
+
+}
+
+
+button{
+  background-color:  hsl(176, 68%, 64%);
+  color: #fff;
+  border-radius: 30px;
+  padding: 14px 40px;
+  font-size: 20px;
+  width: 230px;
+}
+
+
+.button{
+  text-align: center;
+  padding-bottom: 8%;
+}
+
+.navbar{
+  padding-top: 6%;
+
+}
+
+.nav-link{
+  color: #fff;
+}
+
+.navbar-customclass{
+  background-color: hsl(218, 28%, 13%);
+}
+
+.navbar-nav{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.introImage{
+
+  padding-top: 5%;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+
+
+
+.introText{
+  text-align: center;
+  font-weight: bold;
+
+padding-top: 5%;
+}
+
+.introDes{
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 2%;
+  }
+
+  .iconrow{
+    padding-top: 5%;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+
+
+
+  .iconP{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 5%;
+  }
+
+  .P1{
+    padding-left: 32%;
+    padding-right: 32%;
+  }
+
+  .iconh3{
+    padding-top: 3%;
+  }
+
+  .stayImage{
+    padding-left: 20%;
+  }
+
+  .stayText{
+
+    padding-top: 5%;
+    text-align: center;
+  }
+
+  .stayh1{
+    font-weight: bold;
+  }
+
+  .stayP{
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+  }
+
+.quoteImage{
+  position: relative;
+top: 50%;
+transform: translateY(20%);
+}
+
+  .testimonial{
+    padding-top: 10%;
+    padding-bottom: 15%;
+  }
+
+  .testimonialMsg{
+    padding-left: 5%; padding-right: 5%; padding-top: 5%;
+  }
+
+  .card{
+    background-color: hsl(219, 30%, 18%);
+  padding-top: 5%;
+
+  }
+
+  .signUp{
+    text-align: center;
+    background-color: hsl(217, 28%, 15%);
+    padding-top: 5%;
+    padding-bottom: 3%;
+    width: 800px;
+    height: 300px;
+    transform: translate(90px, 90px);
+    border-radius: 1%;
+
+
+  }
+
+  .footer{
+    background-color: hsl(216, 53%, 9%);
+width: 100%;
+
+  }
+
+  .attribution {
+    font-size: 11px;
+text-align: center;
+
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
